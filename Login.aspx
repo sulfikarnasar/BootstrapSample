@@ -15,7 +15,7 @@
   <div class="panel-body">
     <table class="table">
         <tr>
-            <td><span class="label label-info">Username</span></td><td>
+            <td><span class="label label-info">User Name</span></td><td>
                 <asp:TextBox ID="uname_txt" runat="server" autocomplete="off" required="req" class="form-control" Width="200"></asp:TextBox></td>
         </tr>
         <tr>
