@@ -31,7 +31,7 @@
   </div>
 </div>
         <div class="alert alert-info"> 
-            Invalid username or Password
+            Invalid Username or Password
         </div>
         </form>
 </body>
